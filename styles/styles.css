@@ -1,5 +1,11 @@
 
-.nav-logo {
+.logo {
+  background-image: url(https://www.nysdental.org/sites/default/files/sofi_horiz_dark_text.png);
+  background-repeat: no-repeat;
+  background-size: contain;
   height:40px;
+  margin-right: 80vw;
+  margin-left: 5vw;
+  position:absolute;
   width: 100px;
 }
