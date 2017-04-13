@@ -37,10 +37,12 @@ nav li, ul {
   color: #15c0f1;
 }
 
+
 .jumbotron {
   background-image: url(//cdn.optimizely.com/img/20891654/47670a2b92944378a4528ea2b91065a3.jpg);
   background-position: 0% 70%;
-  height:500px;
   background-size: cover;
+  height:500px;
+  padding-top: 150px;
   width: 100vw;
 }
