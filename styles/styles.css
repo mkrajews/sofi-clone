@@ -46,3 +46,17 @@ nav li, ul {
   padding-top: 150px;
   width: 100vw;
 }
+
+.jumbo-lower {
+  background-color: rgba(12,31,41,.7);
+  height: 200px;
+  width: 100vw;
+  /*temporary*/
+  margin-top: 90px;
+}
+
+.jumbo-heading {
+  color: white;
+  font-size: 60px;
+  text-align: center;
+}
