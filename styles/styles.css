@@ -1,9 +1,9 @@
 
-nav li {
+nav li, ul {
   display: inline;
+  font-size: 14px;
   list-style: none;
 }
-
 
 
 .logo {
@@ -17,7 +17,22 @@ nav li {
   width: 100px;
 }
 
-.navitems {
+.nav-items {
   padding-left: 200px;
   padding-top: 15px;
+  margin-top: 15px;
+}
+
+.nav-login {
+  /*position:absolute;*/
+}
+
+.nav-btn {
+  background-color: #15c0f1;
+  color: white;
+  /*font-family: gotham bold;*/
+}
+.nav-btn:hover {
+  background-color: white;
+  color: #15c0f1;
 }
