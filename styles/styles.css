@@ -17,7 +17,7 @@ nav li, ul {
   width: 100px;
 }
 
-.nav-items {
+.nav-menu {
   padding-left: 200px;
   padding-top: 15px;
   margin-top: 15px;
@@ -33,6 +33,14 @@ nav li, ul {
   /*font-family: gotham bold;*/
 }
 .nav-btn:hover {
-  background-color: white;
+  background-color: transparent;
   color: #15c0f1;
+}
+
+.jumbotron {
+  background-image: url(//cdn.optimizely.com/img/20891654/47670a2b92944378a4528ea2b91065a3.jpg);
+  background-position: 0% 70%;
+  height:500px;
+  background-size: cover;
+  width: 100vw;
 }
