@@ -1,9 +1,14 @@
 
+nav {
+  background-attachment: fixed;
+}
+
 nav li, ul {
   display: inline;
   font-size: 14px;
   list-style: none;
 }
+
 
 
 .logo {
@@ -52,7 +57,7 @@ nav li, ul {
   height: 200px;
   width: 100vw;
   /*temporary*/
-  margin-top: 90px;
+  margin-top: 180px;
 }
 
 .jumbo-heading {
