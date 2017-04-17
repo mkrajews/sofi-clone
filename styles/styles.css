@@ -83,3 +83,8 @@ nav li, ul {
   font-weight: bold;
   margin-bottom: 25px;
 }
+
+.section-subheading {
+  font-size: 25px;
+  margin-bottom: 25px;
+}
