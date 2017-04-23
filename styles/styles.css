@@ -106,3 +106,9 @@ nav li, ul {
   width: 100vw;
   background-color: purple;
 }
+
+.lend {
+  height: 300px;
+  width: 100vw;
+  background-color: maroon;
+}
