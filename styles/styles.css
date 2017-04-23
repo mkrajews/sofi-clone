@@ -88,3 +88,14 @@ nav li, ul {
   font-size: 25px;
   margin-bottom: 25px;
 }
+
+.intro-stat {
+  /*display: flex;
+  justify-content: center;*/
+}
+
+/*reasons section*/
+.reason {
+  height: 300px;
+  width: 100vw;
+}
