@@ -95,7 +95,14 @@ nav li, ul {
 }
 
 /*reasons section*/
-.reason {
+.reasons {
   height: 300px;
   width: 100vw;
+  background-color: pink;
+}
+
+.community  {
+  height: 300px;
+  width: 100vw;
+  background-color: purple;
 }
